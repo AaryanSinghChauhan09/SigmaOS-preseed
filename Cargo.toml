@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-preseed"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS preseed component - cloud"
+
+[lib]
+name = "preseed"
+path = "src/lib.rs"
