@@ -3,7 +3,7 @@ name = "SigmaOS-preseed"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "preseed component"
+description = "Preseed"
 upstream = []
 
 [contract]
